@@ -1,9 +1,6 @@
 import { useParams } from "react-router";
 import { useEffect, useState } from "react";
-
-// import PostCard from "../PostCard";
 import ReactMarkdown from "react-markdown";
-
 import { loadPosts } from "../util/loadPosts";
 
 const Post = () => {
