@@ -24,6 +24,14 @@ main {
   padding: 2rem;
 }
 
+article {
+  background-color: #cae7f860;
+  border-radius: 0.5rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 1.5rem;
+  margin: 2rem;
+}
+
 nav {
   background-color: #b8dff5;
   display: flex;
