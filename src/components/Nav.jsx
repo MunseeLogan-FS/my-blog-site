@@ -6,7 +6,7 @@ function Nav() {
       <h1>My Blog Site</h1>
       <ul>
         <li>
-          <Link to="/">Home</Link>
+          <Link to="/home">Home</Link>
         </li>
       </ul>
     </nav>
