@@ -66,3 +66,21 @@ main h2:hover {
   color: #ff6347;
   text-decoration: underline;
 }
+
+img {
+  display: block;
+  margin: 0 auto;
+  max-width: 600px;
+  max-height: 400px;
+  justify-self: center;
+}
+
+p > a {
+  color: darkblue;
+  text-decoration: underline;
+  cursor: pointer;
+}
+p > a:hover {
+  color: #ff6347;
+  background-color: transparent;
+}

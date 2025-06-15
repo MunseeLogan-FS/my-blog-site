@@ -1,6 +1,6 @@
 import { loadPosts } from "./loadPosts";
 
-const slugs = ["firstPost", "secondPost", "thirdPost"];
+const slugs = ["firstPost", "secondPost", "thirdPost", "fourthPost"];
 
 // Loads all posts defined in the slug list
 
