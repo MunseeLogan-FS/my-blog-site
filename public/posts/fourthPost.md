@@ -1,12 +1,12 @@
 ---
-title: "Is a side project ever finsihed?"
+title: "Get your app out!"
 date: "2025-06-15"
 ---
 
-![ShelfHelp](../images/shelfHelp.png)
+![ShelfHelp](../images/devices.png)
 
-### Is a side project ever finsihed?
+### Publishing made easier
 
-I’m working on a few side projects right now, but the one I’ve put the most time into is ShelfHelp. I built it mostly to get better at React and because I really enjoy reading. The core features are there, but there’s still a lot I want to add.
-The next big step is setting up a database so users can come back and still see their saved books. That means I’ll also need to add authentication, so everyone gets access to the right set of books. After that, I want to improve the featured and suggested books on the homepage to be more accurate and varied based on users. One last big thing on the roadmap is a notes section for each book, so people can write down thoughts while they read.
-You can check it out [here](https://shelfhelper.netlify.app/), or see the code on my GitHub [here](https://github.com/MunseeLogan-FS/ShelfHelp). Even though the original goal is done, the project doesn’t feel finished so I’m definitely excited to keep working on it.
+React Native and Flutter are both solid ways to build apps that run on multiple platforms. Both have good paths to get there. For me, React Native is more interesting because I already know JavaScript and TypeScript. Plus, I know how React works pretty well, so jumping into React Native feels natural. If you’re a web developer with React experience, it’s an easy choice.
+Flutter does give more control over the UI and offers good performance without relying on native components. Flutter uses Dart as its programming language, and it is relatively easy to pick up if you are familiar with object-oriented programming. If your app is mainly for mobile users, Flutter might be the better fit.
+Ultimately, every app has its unique use case, and React Native or Flutter could be a suitable choice. Just go with what fits your project best.
