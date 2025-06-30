@@ -6,6 +6,7 @@ const slugs = [
   "thirdPost",
   "fourthPost",
   "fifthPost",
+  "sixthPost",
 ];
 
 // Loads all posts defined in the slug list
